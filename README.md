@@ -1,4 +1,4 @@
-# HangmanGame - Word Guessing Game
+# Hangman Game - Word Guessing Game
 ## Table of Contents
 * Summary
 * Technology Used
